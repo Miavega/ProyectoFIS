@@ -1,11 +1,26 @@
 \begin{thebibliography}{1}
 
+\bibitem{civittolo2012extension}
+David Civittolo.
+\newblock Extension's role in developing a farmers' market.
+\newblock {\em Journal of Extension}, 50(1):n1, 2012.
+
+\bibitem{houtart2004globalizacion}
+F.~Houtart.
+\newblock {\em Globalizaci{\'o}n, agricultura y pobreza}.
+\newblock Abya-Yala, 2004.
+
 \bibitem{moran2010agricultura}
 Nerea Moran~Alonso.
 \newblock Agricultura urbana: un aporte a la rehabilitaci{\'o}n integral.
 \newblock {\em Papeles de relaciones ecosociales y cambio global},
   (111):99--111, 2010.
-\bibitem{globalizacion}
-Houtart, F.
-\emph{Globalizaci{\'o}n, agricultura y pobreza},Abya-Yala
+
+\bibitem{7062536}
+M.~R. Naeem, W.~Zhu, A.~A. Memon, and A.~Khalid.
+\newblock Using v-model methodology, uml process-based risk assessment of
+  software and visualization.
+\newblock In {\em Proceedings of 2014 International Conference on Cloud
+  Computing and Internet of Things}, pages 197--202, Dec 2014.
+
 \end{thebibliography}
