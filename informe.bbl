@@ -16,4 +16,14 @@ Nerea Moran~Alonso.
 \newblock {\em Papeles de relaciones ecosociales y cambio global},
   (111):99--111, 2010.
 
+<<<<<<< HEAD
+=======
+\bibitem{7062536}
+M.~R. Naeem, W.~Zhu, A.~A. Memon, and A.~Khalid.
+\newblock Using v-model methodology, uml process-based risk assessment of
+  software and visualization.
+\newblock In {\em Proceedings of 2014 International Conference on Cloud
+  Computing and Internet of Things}, pages 197--202, Dec 2014.
+
+>>>>>>> ad67c4dd20228510c0d6a427151c1f0fce0aad38
 \end{thebibliography}

@@ -8,42 +8,42 @@
 \contentsline {chapter}{\numberline {2}Metodolog\IeC {\'\i }a}{13}
 \contentsline {section}{\numberline {2.1}Procesos}{13}
 \contentsline {subsection}{\numberline {2.1.1}Proceso en Espiral}{13}
-\contentsline {subsection}{\numberline {2.1.2}Proceso Evolutivo}{14}
-\contentsline {section}{\numberline {2.2}Metodolog\IeC {\'\i }as \IeC {\'A}giles}{14}
-\contentsline {subsection}{\numberline {2.2.1}Crystal }{14}
-\contentsline {subsection}{\numberline {2.2.2}Crystal Clear}{15}
-\contentsline {subsubsection}{Entregas Frecuentes}{16}
-\contentsline {subsubsection}{Mejora Reflectiva}{16}
-\contentsline {subsubsection}{Comunicaci\IeC {\'o}n Osm\IeC {\'o}tica}{17}
-\contentsline {subsubsection}{Seguridad Personal}{17}
-\contentsline {subsubsection}{Enfoque}{18}
-\contentsline {subsubsection}{Acceso F\IeC {\'a}cil a usuarios Expertos}{18}
-\contentsline {subsubsection}{Entorno T\IeC {\'e}cnico con Pruebas Automatizadas,Gesti\IeC {\'o}n de la configuraci\IeC {\'o}n e integraci\IeC {\'o}n frecuente}{18}
-\contentsline {subsection}{\numberline {2.2.3}Cronograma}{18}
-\contentsline {part}{II\hspace {1em}UML}{19}
-\contentsline {chapter}{\numberline {3}An\IeC {\'a}lisis}{21}
-\contentsline {section}{\numberline {3.1}Introducci\IeC {\'o}n}{21}
-\contentsline {section}{\numberline {3.2}Diagrama de Casos de Uso}{22}
-\contentsline {section}{\numberline {3.3}Interacciones}{22}
-\contentsline {subsection}{\numberline {3.3.1}Diagrama de Secuencia}{23}
-\contentsline {subsection}{\numberline {3.3.2}Diagrama de Comunicaci\IeC {\'o}n}{24}
-\contentsline {subsection}{\numberline {3.3.3}Diagrama de Temporizaci\IeC {\'o}n}{25}
-\contentsline {section}{\numberline {3.4}Diagramas de Actividades}{26}
-\contentsline {section}{\numberline {3.5}Diagramas de Actividades}{27}
-\contentsline {section}{\numberline {3.6}Diagramas de Workflow}{28}
-\contentsline {section}{\numberline {3.7}Diagramas de Descripci\IeC {\'o}n de la Interacci\IeC {\'o}n}{29}
-\contentsline {chapter}{\numberline {4}Dise\IeC {\~n}o}{31}
-\contentsline {section}{\numberline {4.1}Introducci\IeC {\'o}n}{31}
-\contentsline {section}{\numberline {4.2}Diagrama de Clases de An\IeC {\'a}lisis}{32}
-\contentsline {section}{\numberline {4.3}Diagrama de Clases}{33}
-\contentsline {section}{\numberline {4.4}Diagrama de Objetos}{34}
-\contentsline {section}{\numberline {4.5}Diagrama de Estructura Compuesta}{35}
-\contentsline {chapter}{\numberline {5}Despliegue}{37}
-\contentsline {section}{\numberline {5.1}Introducci\IeC {\'o}n}{37}
-\contentsline {section}{\numberline {5.2}Diagrama de Sistemas}{38}
-\contentsline {section}{\numberline {5.3}Diagrama de Componentes}{39}
-\contentsline {section}{\numberline {5.4}Diagrama de Artefactos}{40}
-\contentsline {section}{\numberline {5.5}Diagrama de Nodos}{41}
-\contentsline {part}{III\hspace {1em}Conclusiones}{43}
-\contentsline {chapter}{\numberline {6}Conlusiones}{45}
-\contentsline {chapter}{\numberline {7}Trabajos Futuros}{47}
+\contentsline {subsection}{\numberline {2.1.2}Proceso de modelo en V}{15}
+\contentsline {section}{\numberline {2.2}Metodolog\IeC {\'\i }as \IeC {\'A}giles}{16}
+\contentsline {subsection}{\numberline {2.2.1}Crystal }{16}
+\contentsline {subsection}{\numberline {2.2.2}Crystal Clear}{17}
+\contentsline {subsubsection}{Entregas Frecuentes}{18}
+\contentsline {subsubsection}{Mejora Reflectiva}{18}
+\contentsline {subsubsection}{Comunicaci\IeC {\'o}n Osm\IeC {\'o}tica}{19}
+\contentsline {subsubsection}{Seguridad Personal}{19}
+\contentsline {subsubsection}{Enfoque}{19}
+\contentsline {subsubsection}{Acceso F\IeC {\'a}cil a usuarios Expertos}{20}
+\contentsline {subsubsection}{Entorno T\IeC {\'e}cnico con Pruebas Automatizadas,Gesti\IeC {\'o}n de la configuraci\IeC {\'o}n e integraci\IeC {\'o}n frecuente}{20}
+\contentsline {subsection}{\numberline {2.2.3}Cronograma}{21}
+\contentsline {part}{II\hspace {1em}UML}{23}
+\contentsline {chapter}{\numberline {3}An\IeC {\'a}lisis}{25}
+\contentsline {section}{\numberline {3.1}Introducci\IeC {\'o}n}{25}
+\contentsline {section}{\numberline {3.2}Diagrama de Casos de Uso}{25}
+\contentsline {subsection}{\numberline {3.2.1}Requerimientos Espec\IeC {\'\i }ficos}{25}
+\contentsline {subsection}{\numberline {3.2.2}Diagrama de Secuencia}{27}
+\contentsline {subsection}{\numberline {3.2.3}Diagrama de Comunicaci\IeC {\'o}n}{28}
+\contentsline {subsection}{\numberline {3.2.4}Diagrama de Temporizaci\IeC {\'o}n}{29}
+\contentsline {section}{\numberline {3.3}Diagramas de Actividades}{30}
+\contentsline {section}{\numberline {3.4}Diagramas de Actividades}{31}
+\contentsline {section}{\numberline {3.5}Diagramas de Workflow}{32}
+\contentsline {section}{\numberline {3.6}Diagramas de Descripci\IeC {\'o}n de la Interacci\IeC {\'o}n}{33}
+\contentsline {chapter}{\numberline {4}Dise\IeC {\~n}o}{35}
+\contentsline {section}{\numberline {4.1}Introducci\IeC {\'o}n}{35}
+\contentsline {section}{\numberline {4.2}Diagrama de Clases de An\IeC {\'a}lisis}{36}
+\contentsline {section}{\numberline {4.3}Diagrama de Clases}{37}
+\contentsline {section}{\numberline {4.4}Diagrama de Objetos}{38}
+\contentsline {section}{\numberline {4.5}Diagrama de Estructura Compuesta}{39}
+\contentsline {chapter}{\numberline {5}Despliegue}{41}
+\contentsline {section}{\numberline {5.1}Introducci\IeC {\'o}n}{41}
+\contentsline {section}{\numberline {5.2}Diagrama de Sistemas}{42}
+\contentsline {section}{\numberline {5.3}Diagrama de Componentes}{43}
+\contentsline {section}{\numberline {5.4}Diagrama de Artefactos}{44}
+\contentsline {section}{\numberline {5.5}Diagrama de Nodos}{45}
+\contentsline {part}{III\hspace {1em}Conclusiones}{47}
+\contentsline {chapter}{\numberline {6}Conlusiones}{49}
+\contentsline {chapter}{\numberline {7}Trabajos Futuros}{51}

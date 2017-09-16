@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.8.21)  3 SEP 2017 14:04
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.8.21)  11 SEP 2017 15:57
 entering extended mode
 **./informe.tex
 (informe.tex
@@ -625,58 +625,51 @@ LaTeX Info: Redefining \% on input line 1.
 
 ]
 Cap\'{\i }tulo 2.
-[13]
+[13] <proyecto/imgs/procesoEspiral.png, id=54, 302.12875pt x 348.30125pt>
+File: proyecto/imgs/procesoEspiral.png Graphic file (type png)
 
-LaTeX Warning: Citation `cockburn2004crystal' on page 14 undefined on input lin
-e 30.
+<use proyecto/imgs/procesoEspiral.png>
+Package pdftex.def Info: proyecto/imgs/procesoEspiral.png used on input line 29
+.
+(pdftex.def)             Requested size: 251.9989pt x 290.50897pt.
 
-LaTeX Info: Redefining \. on input line 32.
-LaTeX Info: Redefining \% on input line 32.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+LaTeX Info: Redefining \. on input line 35.
+LaTeX Info: Redefining \% on input line 35.
 [14]
-Underfull \hbox (badness 10000) in paragraph at lines 38--39
+LaTeX Info: Redefining \. on input line 46.
+LaTeX Info: Redefining \% on input line 46.
+ [15 <./proyecto/imgs/procesoEspiral.png (PNG copy)>]
+<proyecto/imgs/modeloV.png, id=61, 417.56pt x 321.2pt>
+File: proyecto/imgs/modeloV.png Graphic file (type png)
 
- []
+<use proyecto/imgs/modeloV.png>
+Package pdftex.def Info: proyecto/imgs/modeloV.png used on input line 50.
+(pdftex.def)             Requested size: 251.9989pt x 193.84874pt.
 
-<proyecto/imgs/crystalM.jpg, id=57, 573.64313pt x 420.06938pt>
-File: proyecto/imgs/crystalM.jpg Graphic file (type jpg)
-
-<use proyecto/imgs/crystalM.jpg>
-Package pdftex.def Info: proyecto/imgs/crystalM.jpg used on input line 42.
-(pdftex.def)             Requested size: 251.9989pt x 184.52983pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 49--50
-
- []
-
-LaTeX Info: Redefining \. on input line 50.
-LaTeX Info: Redefining \% on input line 50.
-[15 <./proyecto/imgs/crystalM.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 54--55
+Underfull \hbox (badness 10000) in paragraph at lines 57--59
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 59--60
-
- []
+LaTeX Warning: Citation `cockburn2004crystal' on page 16 undefined on input lin
+e 60.
 
 LaTeX Info: Redefining \. on input line 63.
 LaTeX Info: Redefining \% on input line 63.
-[16]
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 64.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 64.
-
-Underfull \hbox (badness 10000) in paragraph at lines 64--65
+[16 <./proyecto/imgs/modeloV.png (PNG copy)>]
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
 
  []
 
+<proyecto/imgs/crystalM.jpg, id=65, 573.64313pt x 420.06938pt>
+File: proyecto/imgs/crystalM.jpg Graphic file (type jpg)
 
-Underfull \hbox (badness 10000) in paragraph at lines 69--70
-
- []
-
+<use proyecto/imgs/crystalM.jpg>
+Package pdftex.def Info: proyecto/imgs/crystalM.jpg used on input line 72.
+(pdftex.def)             Requested size: 251.9989pt x 184.52983pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 79--80
 
@@ -684,130 +677,204 @@ Underfull \hbox (badness 10000) in paragraph at lines 79--80
 
 LaTeX Info: Redefining \. on input line 80.
 LaTeX Info: Redefining \% on input line 80.
-[17]
-Underfull \hbox (badness 10000) in paragraph at lines 81--82
+[17 <./proyecto/imgs/crystalM.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 84--85
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 83--84
+Underfull \hbox (badness 10000) in paragraph at lines 89--90
+
+ []
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <9> on input line 94.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 94.
+
+Underfull \hbox (badness 10000) in paragraph at lines 94--95
+
+ []
+
+LaTeX Info: Redefining \. on input line 95.
+LaTeX Info: Redefining \% on input line 95.
+[18]
+Underfull \hbox (badness 10000) in paragraph at lines 99--100
 
  []
 
 
-LaTeX Warning: Citation `cockburn2004crystal' on page 18 undefined on input lin
-e 88.
+Underfull \hbox (badness 10000) in paragraph at lines 109--110
+
+ []
+
+LaTeX Info: Redefining \. on input line 110.
+LaTeX Info: Redefining \% on input line 110.
+[19]
+Underfull \hbox (badness 10000) in paragraph at lines 111--112
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 113--114
+
+ []
+
+
+LaTeX Warning: Citation `cockburn2004crystal' on page 20 undefined on input lin
+e 118.
+
+<proyecto/imgs/metCrystal.png, id=78, 328.22626pt x 289.08pt>
+File: proyecto/imgs/metCrystal.png Graphic file (type png)
+
+<use proyecto/imgs/metCrystal.png>
+Package pdftex.def Info: proyecto/imgs/metCrystal.png used on input line 124.
+(pdftex.def)             Requested size: 251.9989pt x 221.94827pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+LaTeX Info: Redefining \. on input line 129.
+LaTeX Info: Redefining \% on input line 129.
+[20] <proyecto/imgs/Cronograma.jpg, id=82, 560.0925pt x 139.27031pt>
+File: proyecto/imgs/Cronograma.jpg Graphic file (type jpg)
+
+<use proyecto/imgs/Cronograma.jpg>
+Package pdftex.def Info: proyecto/imgs/Cronograma.jpg used on input line 134.
+(pdftex.def)             Requested size: 431.9989pt x 107.42334pt.
+
+Overfull \hbox (71.9989pt too wide) in paragraph at lines 134--135
+ [][] 
+ []
 
 )
 LaTeX Info: Redefining \. on input line 19.
 LaTeX Info: Redefining \% on input line 19.
- [18] [19
+ [21 <./proyecto/imgs/metCrystal.png (PNG copy)> <./proyecto/imgs/Cronograma.jp
+g>]
+LaTeX Info: Redefining \. on input line 21.
+LaTeX Info: Redefining \% on input line 21.
+ [22
 
 
-] [20]
+] [23] [24]
 \openout2 = `uml/analisis.aux'.
 
  (uml/analisis.tex
 Cap\'{\i }tulo 3.
-[21
+
+! LaTeX Error: File `proyecto/imgs/Caso de uso' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.13 ...=1.2\linewidth]{proyecto/imgs/Caso de uso}
+                                                  
+I could not locate the file with any of these extensions:
+.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 22.
+
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 39.
+
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 56.
+
+[25
 
 
 ]
-
-LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 11.
-
-
-LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 29.
-
-
-LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 47.
-
-LaTeX Info: Redefining \. on input line 67.
-LaTeX Info: Redefining \% on input line 67.
-[22]
-LaTeX Info: Redefining \. on input line 71.
-LaTeX Info: Redefining \% on input line 71.
- [23]
-LaTeX Info: Redefining \. on input line 75.
-LaTeX Info: Redefining \% on input line 75.
- [24]
-LaTeX Info: Redefining \. on input line 79.
-LaTeX Info: Redefining \% on input line 79.
- [25]
-LaTeX Info: Redefining \. on input line 83.
-LaTeX Info: Redefining \% on input line 83.
+LaTeX Info: Redefining \. on input line 72.
+LaTeX Info: Redefining \% on input line 72.
  [26]
-LaTeX Info: Redefining \. on input line 87.
-LaTeX Info: Redefining \% on input line 87.
+LaTeX Info: Redefining \. on input line 76.
+LaTeX Info: Redefining \% on input line 76.
  [27]
-LaTeX Info: Redefining \. on input line 91.
-LaTeX Info: Redefining \% on input line 91.
+LaTeX Info: Redefining \. on input line 80.
+LaTeX Info: Redefining \% on input line 80.
  [28]
-LaTeX Info: Redefining \. on input line 95.
-LaTeX Info: Redefining \% on input line 95.
- [29])
+LaTeX Info: Redefining \. on input line 84.
+LaTeX Info: Redefining \% on input line 84.
+ [29]
+LaTeX Info: Redefining \. on input line 88.
+LaTeX Info: Redefining \% on input line 88.
+ [30]
+LaTeX Info: Redefining \. on input line 92.
+LaTeX Info: Redefining \% on input line 92.
+ [31]
+LaTeX Info: Redefining \. on input line 96.
+LaTeX Info: Redefining \% on input line 96.
+ [32]
+LaTeX Info: Redefining \. on input line 100.
+LaTeX Info: Redefining \% on input line 100.
+ [33])
 \openout2 = `uml/diseno.aux'.
 
  (uml/diseno.tex
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
- [30
+ [34
 
 
 
 ]
 Cap\'{\i }tulo 4.
-[31]
+[35]
 LaTeX Info: Redefining \. on input line 9.
 LaTeX Info: Redefining \% on input line 9.
- [32]
+ [36]
 LaTeX Info: Redefining \. on input line 13.
 LaTeX Info: Redefining \% on input line 13.
- [33]
+ [37]
 LaTeX Info: Redefining \. on input line 17.
 LaTeX Info: Redefining \% on input line 17.
- [34]
+ [38]
 LaTeX Info: Redefining \. on input line 21.
 LaTeX Info: Redefining \% on input line 21.
- [35])
+ [39])
 \openout2 = `uml/despliegue.aux'.
 
  (uml/despliegue.tex
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
- [36
+ [40
 
 
 
 ]
 Cap\'{\i }tulo 5.
-[37]
+[41]
 LaTeX Info: Redefining \. on input line 9.
 LaTeX Info: Redefining \% on input line 9.
- [38]
+ [42]
 LaTeX Info: Redefining \. on input line 13.
 LaTeX Info: Redefining \% on input line 13.
- [39]
+ [43]
 LaTeX Info: Redefining \. on input line 17.
 LaTeX Info: Redefining \% on input line 17.
- [40]
+ [44]
 LaTeX Info: Redefining \. on input line 21.
 LaTeX Info: Redefining \% on input line 21.
- [41])
+ [45])
 LaTeX Info: Redefining \. on input line 25.
 LaTeX Info: Redefining \% on input line 25.
- [42
+ [46
 
 
-] [43] [44]
+] [47] [48]
 \openout2 = `conclusiones/conclusiones.aux'.
 
  (conclusiones/conclusiones.tex
 Cap\'{\i }tulo 6.
-) [45
+) [49
 
 
 ]
@@ -816,31 +883,37 @@ Cap\'{\i }tulo 6.
  (conclusiones/trabajosfuturos.tex
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
- [46
+ [50
 
 
 
 ]
 Cap\'{\i }tulo 7.
-) [47]
+) [51]
 \openout2 = `conclusiones/anexos.aux'.
 
  (conclusiones/anexos.tex
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
- [48
+ [52
 
 
 
-]) [49] (informe.bbl
+]) [53] (informe.bbl
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
- [50
+ [54
 
 
-]) [51] (informe.aux
+]
+LaTeX Font Info:    Try loading font information for U+lasy on input line 19.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\ulasy.fd"
+File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
+)) [55] (informe.aux
 LaTeX Info: Redefining \. on input line 6.
 LaTeX Info: Redefining \% on input line 6.
+
 (proyecto/problema.aux) (proyecto/metodologia.aux) (uml/analisis.aux)
 (uml/diseno.aux) (uml/despliegue.aux) (conclusiones/conclusiones.aux)
 (conclusiones/trabajosfuturos.aux) (conclusiones/anexos.aux))
@@ -852,13 +925,13 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 3360 strings out of 493323
- 43445 string characters out of 3139048
- 122585 words of memory out of 3000000
- 6790 multiletter control sequences out of 15000+200000
- 11634 words of font info for 40 fonts, out of 3000000 for 9000
+ 3409 strings out of 493323
+ 44577 string characters out of 3139048
+ 124644 words of memory out of 3000000
+ 6830 multiletter control sequences out of 15000+200000
+ 11740 words of font info for 41 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,18n,35p,902b,405s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 41i,17n,35p,902b,405s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Pr
 ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Fi
 les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTe
@@ -867,10 +940,11 @@ ts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/
 public/amsfonts/cm/cmr6.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/ams
 fonts/cm/cmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/c
 mr9.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsl10.pfb>
-<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on informe.pdf (51 pages, 571074 bytes).
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Prog
+ram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/latxfont/lasy10.pfb>
+Output written on informe.pdf (55 pages, 655751 bytes).
 PDF statistics:
- 211 PDF objects out of 1000 (max. 8388607)
+ 232 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 21 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 41 words of extra memory for PDF output out of 10000 (max. 10000000)
 
