@@ -25,19 +25,20 @@
 \contentsline {section}{\numberline {3.1}Introducci\IeC {\'o}n}{25}
 \contentsline {section}{\numberline {3.2}Diagrama de Casos de Uso}{26}
 \contentsline {section}{\numberline {3.3}Interacciones}{26}
-\contentsline {subsection}{\numberline {3.3.1}Diagrama de Secuencia}{27}
-\contentsline {subsection}{\numberline {3.3.2}Diagrama de Comunicaci\IeC {\'o}n}{28}
-\contentsline {subsection}{\numberline {3.3.3}Diagrama de Temporizaci\IeC {\'o}n}{29}
-\contentsline {section}{\numberline {3.4}Diagramas de Actividades}{30}
-\contentsline {section}{\numberline {3.5}Diagramas de Actividades}{31}
-\contentsline {section}{\numberline {3.6}Diagramas de Workflow}{32}
-\contentsline {section}{\numberline {3.7}Diagramas de Descripci\IeC {\'o}n de la Interacci\IeC {\'o}n}{33}
+\contentsline {subsection}{\numberline {3.3.1}Diagrama de Secuencia}{28}
+\contentsline {subsection}{\numberline {3.3.2}Diagrama de Comunicaci\IeC {\'o}n}{29}
+\contentsline {subsection}{\numberline {3.3.3}Diagrama de Temporizaci\IeC {\'o}n}{30}
+\contentsline {section}{\numberline {3.4}Diagramas de Actividades}{31}
+\contentsline {section}{\numberline {3.5}Diagramas de Actividades}{32}
+\contentsline {section}{\numberline {3.6}Diagramas de Workflow}{33}
+\contentsline {section}{\numberline {3.7}Diagramas de Descripci\IeC {\'o}n de la Interacci\IeC {\'o}n}{34}
 \contentsline {chapter}{\numberline {4}Dise\IeC {\~n}o}{35}
 \contentsline {section}{\numberline {4.1}Introducci\IeC {\'o}n}{35}
-\contentsline {section}{\numberline {4.2}Diagrama de Clases de An\IeC {\'a}lisis}{36}
-\contentsline {section}{\numberline {4.3}Diagrama de Clases}{37}
-\contentsline {section}{\numberline {4.4}Diagrama de Objetos}{38}
-\contentsline {section}{\numberline {4.5}Diagrama de Estructura Compuesta}{39}
+\contentsline {section}{\numberline {4.2}Diagrama de Secuencia}{36}
+\contentsline {section}{\numberline {4.3}Diagrama de Clases de An\IeC {\'a}lisis}{37}
+\contentsline {section}{\numberline {4.4}Diagrama de Clases}{38}
+\contentsline {section}{\numberline {4.5}Diagrama de Objetos}{39}
+\contentsline {section}{\numberline {4.6}Diagrama de Estructura Compuesta}{40}
 \contentsline {chapter}{\numberline {5}Despliegue}{41}
 \contentsline {section}{\numberline {5.1}Introducci\IeC {\'o}n}{41}
 \contentsline {section}{\numberline {5.2}Diagrama de Sistemas}{42}
