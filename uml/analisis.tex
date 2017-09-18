@@ -1,14 +1,37 @@
 \chapter{Análisis}
 
 \section{Introducción}
+El objetivo principal de la ingenieria de requerimientos es crear y mantener un documento sólido de requerimientos del sistema. El proceso general corresponde a cuatro subprocesos de alto nivel de la ingeniería de requerimientos :
 
-\newpage
+\begin{enumerate}
+	\item Estudio de viabilidad
+	\item \emph{Obtención y análisis}
+	\item Especificación
+	\item Validación 
+\end{enumerate} 
+
+El foco en esta etapa es la obtención y el análisis, en esta parte del proceso los ingenieros de software interactuan con los clientes y usuarios finales para determinar el dominio de la aplicación , es decir, ¿qué servicios deberá ofrecer?, ¿qué rendimiento se requiere?, ¿para qué hardware? , entre otras cosas. \cite{sommerville2005ingenieria}\\
+
+El término Stakeholder define a todas las personas o grupos que se verán afectados por el sistema, de manera directa o indirecta. A veces comprender y obtener los requerimientos por parte de los stakeholders es complicado por varias razones, por ejemplo, no se conoce lo que se desea del sistema en términos específicos, se habla muy a grandes rasgos pero a la hora de limitar bien y especificar no hay claridad; el lenguaje natural de los clientes y usuarios finales entra en conflicto muchas veces con el lenguaje de los ingenieros (tecnisismos) ; muchos stakeholders, muchos requerimientos diferentes (que tienen corcondancias y conflictos ) y finalmente la dinámica de los requerimientos.\\
+
+Para abordar cualquier proyecto que se desee desarrollar, debe ser sometido a un infructuoso proceso de análisis, y esto se debe principalmente a que es imposible empezar una construcción sin tener unos planos, que ayuden como guía en el proceso, no solo de hacer, sino asegurando que sea un desarrollo y siseño robusto, y además que asegure un mantenimiento a lo largo del tiempo.Es por esto que en el presente capítulo, se dedicará a describir el análisis de cada requerimiento, mostrando el proceso en cada aspecto tratado en nuestro proyecto.
+
+
 
 \section{Diagrama de Casos de Uso}
+Los casos de uso  y el diagrama de uso de caso UML ayudan a determinar la funcionalidad
+y características del software desde la perspectiva del usuario. Un caso de uso describe la manera en la que un usuario interactúa con el sistema, definiendo
+los pasos requeridos para lograr una meta específica .Tenga en cuenta que la contribución más importante que hace el caso de uso al desarrollo de software es la descripción textual de cada caso de uso, no el diagrama de uso de caso
+global. Es a través de las descripciones que usted puede tener una comprensión clara
+de las metas del sistema que desarrolla.\cite{pressman1988ingenieria}
 
-% Please add the following required packages to your document preamble:
-% \usepackage[table,xcdraw]{xcolor}
-% If you use beamer only pass "xcolor=table" option, i.e. \documentclass[xcolor=table]{beamer}
+\begin{figure}[h!]
+	\centering
+	\includegraphics[width=0.7\linewidth]{proyecto/imgs/CasoDeUso}
+	\caption{Caso de uso general}
+	\label{fig:casodeuso}
+\end{figure}
+
 \begin{table}[]
 	\centering
 	\caption{Requerimiento específico del riego del cultivo.}
@@ -69,20 +92,66 @@
 \newpage
 
 \subsection{Diagrama de Secuencia}
+El diagrama de secuencia es uno de los diagramas de representación de comportamiento. Indica la forma en la que los eventos provocan transiciones de un objeto a otro. Luego de identificar los objetos mediante el análisis del caso de uso, se puede representar el flujo que estos tienen uno con otro en un lapso de tiempo.\\
 
-\newpage
+Un diagrama de secuencia se usa para mostrar las comunicaciones dinámicas entre objetos durante la ejecución de una tarea. Este tipo de diagrama muestra el orden temporal en el que los mensajes se envían entre los objetos para lograr dicha tarea. Puede usarse un diagrama de secuencia para mostrar las interacciones en un caso de uso o en un escenario de un sistema de software.
+Es importante el desarrollo del diagrama de secuencia porque de esta forma, los eventos que causan transiciones entre objetos del sistema se recopilan en un conjunto de eventos de entrada y de salida (desde un objeto). Esta información es útil en la generación de un diseño eficaz para el sistema que se está elaborando. \cite{bruegge2002ingenieria}
+
+\begin{figure}[h!]
+	\centering
+	\includegraphics[width=1.2\linewidth]{proyecto/imgs/SecuenciaRiego}
+	\caption{}
+	\label{fig:secuenciariego}
+\end{figure}
+
+\begin{figure}[h!]
+	\centering
+	\includegraphics[width=1\linewidth]{proyecto/imgs/SecuenciaIluminacion}
+	\caption{}
+	\label{fig:secuenciailuminacion}
+\end{figure}
+
+\begin{figure}
+	\centering
+	\includegraphics[width=1\linewidth]{proyecto/imgs/SecuenciaTierra}
+	\caption{}
+	\label{fig:secuenciatierra}
+\end{figure}
+
 
 \subsection{Diagrama de Comunicación}
 
-\newpage
+\begin{figure}
+	\centering
+	\includegraphics[width=0.8\linewidth]{proyecto/imgs/comunicacionRiego}
+	\caption{}
+	\label{fig:comunicacionriego}
+\end{figure}
+
+
+\begin{figure}
+	\centering
+	\includegraphics[width=0.6\linewidth]{proyecto/imgs/comunicacionIluminacion}
+	\caption{}
+	\label{fig:comunicacioniluminacion}
+\end{figure}
+
+\begin{figure}
+	\centering
+	\includegraphics[width=0.8\linewidth]{proyecto/imgs/comunicacionTierra}
+	\caption{}
+	\label{fig:comunicaciontierra}
+\end{figure}
+\section{Diagramas de Clases}
+El diagrama de clases brinda una visión estática o de estructura de un sistema, sin mostrar la naturaleza dinámica de las comunicaciones entre los objetos de las clases. \cite{bruegge2002ingenieria}
+Su importancia recae en la abstracción que brinda al problema, puesto que en él se puede ver las funcionalidades que brinda el sistema (análisis), como también el cómo puede ser construido el sistema (diseño). 
+El diagrama muestra las clases del sistema y sus interrelaciones que hay entre los atributos, los cuales son objetos que conocen algo de dicha clase y puede proporcionarlo en todo momento, y las operaciones o comportamientos de la clase, que básicamente es lo que los objetos de la clase pueden hacer.
 
 \subsection{Diagrama de Temporización}
 
 \newpage
 
-\section{Diagramas de Actividades}
 
-\newpage
 
 \section{Diagramas de Actividades}
 

@@ -12,4 +12,5 @@ Database file #1: articulos.bib
 Database file #2: libros.bib
 Warning--I didn't find a database entry for "cockburn2004crystal"
 Warning--there's a number but no volume in moran2010agricultura
-(There were 2 warnings)
+Warning--empty journal in pressman1988ingenieria
+(There were 3 warnings)

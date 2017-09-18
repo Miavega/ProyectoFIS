@@ -1,5 +1,11 @@
 \begin{thebibliography}{1}
 
+\bibitem{bruegge2002ingenieria}
+Bernd Bruegge, Allen~H Dutoit, Rafael~Gamboa Hirales, Martha Rosa~Cordero
+  L{\'o}pez, and Marco Antonio~Dorantes Gonz{\'a}lez.
+\newblock {\em Ingenier{\'\i}a de software orientado a objetos}.
+\newblock Pearson educaci{\'o}n, 2002.
+
 \bibitem{civittolo2012extension}
 David Civittolo.
 \newblock Extension's role in developing a farmers' market.
@@ -22,5 +28,15 @@ M.~R. Naeem, W.~Zhu, A.~A. Memon, and A.~Khalid.
   software and visualization.
 \newblock In {\em Proceedings of 2014 International Conference on Cloud
   Computing and Internet of Things}, pages 197--202, Dec 2014.
+
+\bibitem{pressman1988ingenieria}
+Roger~S Pressman and Jose~Maria Troya.
+\newblock Ingenier{\'\i}a del software.
+\newblock 1988.
+
+\bibitem{sommerville2005ingenieria}
+Ian Sommerville.
+\newblock {\em Ingenier{\'\i}a del software}.
+\newblock Pearson Educaci{\'o}n, 2005.
 
 \end{thebibliography}
