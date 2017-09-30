@@ -24,6 +24,7 @@
 \contentsline {chapter}{\numberline {3}An\IeC {\'a}lisis}{25}
 \contentsline {section}{\numberline {3.1}Introducci\IeC {\'o}n}{25}
 \contentsline {section}{\numberline {3.2}Diagrama de Casos de Uso}{26}
+<<<<<<< HEAD
 \contentsline {section}{\numberline {3.3}Interacciones}{28}
 \contentsline {subsection}{\numberline {3.3.1}Diagrama de Secuencia}{29}
 \contentsline {subsection}{\numberline {3.3.2}Diagrama de Comunicaci\IeC {\'o}n}{30}
@@ -48,3 +49,28 @@
 \contentsline {part}{III\hspace {1em}Conclusiones}{49}
 \contentsline {chapter}{\numberline {6}Conlusiones}{51}
 \contentsline {chapter}{\numberline {7}Trabajos Futuros}{53}
+=======
+\contentsline {subsection}{\numberline {3.2.1}Requerimientos Espec\IeC {\'\i }ficos}{26}
+\contentsline {subsection}{\numberline {3.2.2}Diagrama de Secuencia}{27}
+\contentsline {subsection}{\numberline {3.2.3}Diagrama de Comunicaci\IeC {\'o}n}{29}
+\contentsline {subsection}{\numberline {3.2.4}Diagrama de Temporizaci\IeC {\'o}n}{30}
+\contentsline {section}{\numberline {3.3}Diagramas de Actividades}{31}
+\contentsline {section}{\numberline {3.4}Diagramas de Actividades}{32}
+\contentsline {section}{\numberline {3.5}Diagramas de Workflow}{33}
+\contentsline {section}{\numberline {3.6}Diagramas de Descripci\IeC {\'o}n de la Interacci\IeC {\'o}n}{34}
+\contentsline {chapter}{\numberline {4}Dise\IeC {\~n}o}{35}
+\contentsline {section}{\numberline {4.1}Introducci\IeC {\'o}n}{35}
+\contentsline {section}{\numberline {4.2}Diagrama de Clases de An\IeC {\'a}lisis}{36}
+\contentsline {section}{\numberline {4.3}Diagrama de Clases}{37}
+\contentsline {section}{\numberline {4.4}Diagrama de Objetos}{38}
+\contentsline {section}{\numberline {4.5}Diagrama de Estructura Compuesta}{39}
+\contentsline {chapter}{\numberline {5}Despliegue}{41}
+\contentsline {section}{\numberline {5.1}Introducci\IeC {\'o}n}{41}
+\contentsline {section}{\numberline {5.2}Diagrama de Sistemas}{42}
+\contentsline {section}{\numberline {5.3}Diagrama de Componentes}{43}
+\contentsline {section}{\numberline {5.4}Diagrama de Artefactos}{44}
+\contentsline {section}{\numberline {5.5}Diagrama de Nodos}{45}
+\contentsline {part}{III\hspace {1em}Conclusiones}{47}
+\contentsline {chapter}{\numberline {6}Conlusiones}{49}
+\contentsline {chapter}{\numberline {7}Trabajos Futuros}{51}
+>>>>>>> c216004fa9aef3707abec455c62eef0bebd9aa4c

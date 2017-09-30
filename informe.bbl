@@ -22,6 +22,8 @@ Nerea Moran~Alonso.
 \newblock {\em Papeles de relaciones ecosociales y cambio global},
   (111):99--111, 2010.
 
+<<<<<<< HEAD
+=======
 \bibitem{7062536}
 M.~R. Naeem, W.~Zhu, A.~A. Memon, and A.~Khalid.
 \newblock Using v-model methodology, uml process-based risk assessment of
@@ -29,6 +31,7 @@ M.~R. Naeem, W.~Zhu, A.~A. Memon, and A.~Khalid.
 \newblock In {\em Proceedings of 2014 International Conference on Cloud
   Computing and Internet of Things}, pages 197--202, Dec 2014.
 
+<<<<<<< HEAD
 \bibitem{pressman1988ingenieria}
 Roger~S Pressman and Jose~Maria Troya.
 \newblock Ingenier{\'\i}a del software.
@@ -39,4 +42,7 @@ Ian Sommerville.
 \newblock {\em Ingenier{\'\i}a del software}.
 \newblock Pearson Educaci{\'o}n, 2005.
 
+=======
+>>>>>>> ad67c4dd20228510c0d6a427151c1f0fce0aad38
+>>>>>>> c216004fa9aef3707abec455c62eef0bebd9aa4c
 \end{thebibliography}

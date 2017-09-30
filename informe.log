@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.7.29)  17 SEP 2017 23:20
+=======
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.8.21)  17 SEP 2017 21:01
+>>>>>>> c216004fa9aef3707abec455c62eef0bebd9aa4c
 entering extended mode
 **./informe.tex
 (informe.tex
@@ -442,6 +446,12 @@ LaTeX Warning: Label `fig:rup' multiply defined.
 
 ) (proyecto/metodologia.aux) (uml/analisis.aux
 
+LaTeX Warning: Label `fig:cronograma' multiply defined.
+
+
+LaTeX Warning: Label `my-label' multiply defined.
+
+
 LaTeX Warning: Label `my-label' multiply defined.
 
 
@@ -736,10 +746,22 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 LaTeX Info: Redefining \. on input line 129.
 LaTeX Info: Redefining \% on input line 129.
-[20])
+[20] <proyecto/imgs/Cronograma.jpg, id=82, 560.0925pt x 139.27031pt>
+File: proyecto/imgs/Cronograma.jpg Graphic file (type jpg)
+
+<use proyecto/imgs/Cronograma.jpg>
+Package pdftex.def Info: proyecto/imgs/Cronograma.jpg used on input line 134.
+(pdftex.def)             Requested size: 431.9989pt x 107.42334pt.
+
+Overfull \hbox (71.9989pt too wide) in paragraph at lines 134--135
+ [][] 
+ []
+
+)
 LaTeX Info: Redefining \. on input line 19.
 LaTeX Info: Redefining \% on input line 19.
- [21 <./proyecto/imgs/metCrystal.png (PNG copy)>]
+ [21 <./proyecto/imgs/metCrystal.png (PNG copy)> <./proyecto/imgs/Cronograma.jp
+g>]
 LaTeX Info: Redefining \. on input line 21.
 LaTeX Info: Redefining \% on input line 21.
  [22
@@ -748,8 +770,7 @@ LaTeX Info: Redefining \% on input line 21.
 ] [23] [24]
 \openout2 = `uml/analisis.aux'.
 
-
-(uml/analisis.tex
+ (uml/analisis.tex
 Cap\'{\i }tulo 3.
 
 Underfull \hbox (badness 10000) in paragraph at lines 13--14
@@ -764,6 +785,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 15--16
 [25
 
 
+<<<<<<< HEAD
 ] <proyecto/imgs/CasoDeUso.jpg, id=98, 442.65375pt x 252.945pt>
 File: proyecto/imgs/CasoDeUso.jpg Graphic file (type jpg)
 
@@ -821,10 +843,47 @@ File: proyecto/imgs/SecuenciaIluminacion.png Graphic file (type png)
 Package pdftex.def Info: proyecto/imgs/SecuenciaIluminacion.png used on input l
 ine 109.
 (pdftex.def)             Requested size: 360.0pt x 173.36478pt.
+=======
+] <proyecto/imgs/CasoDeUso.jpg, id=99, 442.65375pt x 252.945pt>
+File: proyecto/imgs/CasoDeUso.jpg Graphic file (type jpg)
+
+<use proyecto/imgs/CasoDeUso.jpg>
+Package pdftex.def Info: proyecto/imgs/CasoDeUso.jpg used on input line 15.
+(pdftex.def)             Requested size: 251.9989pt x 144.0026pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+LaTeX Info: Redefining \. on input line 74.
+LaTeX Info: Redefining \% on input line 74.
+[26 <./proyecto/imgs/CasoDeUso.jpg>]
+LaTeX Info: Redefining \. on input line 78.
+LaTeX Info: Redefining \% on input line 78.
+ [27]
+<proyecto/imgs/SecuenciaRiego.jpg, id=106, 416.30531pt x 279.29344pt>
+File: proyecto/imgs/SecuenciaRiego.jpg Graphic file (type jpg)
+
+<use proyecto/imgs/SecuenciaRiego.jpg>
+Package pdftex.def Info: proyecto/imgs/SecuenciaRiego.jpg used on input line 82
+.
+(pdftex.def)             Requested size: 360.0pt x 241.53009pt.
+
+<proyecto/imgs/SecuenciaIluminacion.jpg, id=107, 373.395pt x 284.56313pt>
+File: proyecto/imgs/SecuenciaIluminacion.jpg Graphic file (type jpg)
+
+<use proyecto/imgs/SecuenciaIluminacion.jpg>
+Package pdftex.def Info: proyecto/imgs/SecuenciaIluminacion.jpg used on input l
+ine 89.
+(pdftex.def)             Requested size: 360.0pt x 274.36722pt.
+>>>>>>> c216004fa9aef3707abec455c62eef0bebd9aa4c
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<<<<<<< HEAD
 <proyecto/imgs/SecuenciaTierra.png, id=110, 511.9125pt x 261.97874pt>
 File: proyecto/imgs/SecuenciaTierra.png Graphic file (type png)
 
@@ -888,12 +947,55 @@ LaTeX Info: Redefining \% on input line 166.
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
  [36
+=======
+<proyecto/imgs/SecuenciaTierra.jpg, id=108, 315.42844pt x 271.76532pt>
+File: proyecto/imgs/SecuenciaTierra.jpg Graphic file (type jpg)
+
+<use proyecto/imgs/SecuenciaTierra.jpg>
+Package pdftex.def Info: proyecto/imgs/SecuenciaTierra.jpg used on input line 9
+6.
+(pdftex.def)             Requested size: 360.0pt x 310.18474pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+LaTeX Info: Redefining \. on input line 101.
+LaTeX Info: Redefining \% on input line 101.
+[28 <./proyecto/imgs/SecuenciaRiego.jpg>]
+LaTeX Info: Redefining \. on input line 105.
+LaTeX Info: Redefining \% on input line 105.
+ [29 <./proyecto/imgs/SecuenciaIluminacion.jpg>]
+LaTeX Info: Redefining \. on input line 109.
+LaTeX Info: Redefining \% on input line 109.
+ [30 <./proyecto/imgs/SecuenciaTierra.jpg>]
+LaTeX Info: Redefining \. on input line 113.
+LaTeX Info: Redefining \% on input line 113.
+ [31]
+LaTeX Info: Redefining \. on input line 117.
+LaTeX Info: Redefining \% on input line 117.
+ [32]
+LaTeX Info: Redefining \. on input line 121.
+LaTeX Info: Redefining \% on input line 121.
+ [33]
+LaTeX Info: Redefining \. on input line 125.
+LaTeX Info: Redefining \% on input line 125.
+ [34])
+\openout2 = `uml/diseno.aux'.
+
+
+(uml/diseno.tex
+Cap\'{\i }tulo 4.
+[35
+>>>>>>> c216004fa9aef3707abec455c62eef0bebd9aa4c
 
 
 
 ]
+<<<<<<< HEAD
 Cap\'{\i }tulo 4.
 [37]
+=======
+>>>>>>> c216004fa9aef3707abec455c62eef0bebd9aa4c
 LaTeX Info: Redefining \. on input line 9.
 LaTeX Info: Redefining \% on input line 9.
  [38]
@@ -971,9 +1073,19 @@ LaTeX Info: Redefining \% on input line 1.
  [56
 
 
+<<<<<<< HEAD
 ]) [57] (informe.aux
+=======
+]
+LaTeX Font Info:    Try loading font information for U+lasy on input line 19.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\ulasy.fd"
+File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
+)) [55] (informe.aux
+>>>>>>> c216004fa9aef3707abec455c62eef0bebd9aa4c
 LaTeX Info: Redefining \. on input line 6.
 LaTeX Info: Redefining \% on input line 6.
+
 (proyecto/problema.aux) (proyecto/metodologia.aux) (uml/analisis.aux)
 (uml/diseno.aux) (uml/despliegue.aux) (conclusiones/conclusiones.aux)
 (conclusiones/trabajosfuturos.aux) (conclusiones/anexos.aux))
@@ -985,11 +1097,19 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
+<<<<<<< HEAD
  3432 strings out of 493323
  45540 string characters out of 3139063
  125711 words of memory out of 3000000
  6852 multiletter control sequences out of 15000+200000
  11634 words of font info for 40 fonts, out of 3000000 for 9000
+=======
+ 3429 strings out of 493323
+ 45285 string characters out of 3139048
+ 123666 words of memory out of 3000000
+ 6847 multiletter control sequences out of 15000+200000
+ 11740 words of font info for 41 fonts, out of 3000000 for 9000
+>>>>>>> c216004fa9aef3707abec455c62eef0bebd9aa4c
  1141 hyphenation exceptions out of 8191
  41i,17n,35p,902b,405s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Pr
@@ -1000,10 +1120,20 @@ ts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/
 public/amsfonts/cm/cmr6.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/ams
 fonts/cm/cmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/c
 mr9.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsl10.pfb>
+<<<<<<< HEAD
 <C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb>
 Output written on informe.pdf (57 pages, 698548 bytes).
 PDF statistics:
  240 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  71 words of extra memory for PDF output out of 10000 (max. 10000000)
+=======
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Prog
+ram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/latxfont/lasy10.pfb>
+Output written on informe.pdf (55 pages, 805394 bytes).
+PDF statistics:
+ 236 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 61 words of extra memory for PDF output out of 10000 (max. 10000000)
+>>>>>>> c216004fa9aef3707abec455c62eef0bebd9aa4c
 
